@@ -1,0 +1,10 @@
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\bin\Debug\ServidorIPv6.exe.config
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\bin\Debug\ServidorIPv6.exe
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\bin\Debug\ServidorIPv6.pdb
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.FrmServidorIPv6.resources
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.exe
+C:\Users\Christian Arroyo\Desktop\Cliente-Servidor-IPv6\ServidorIPv6\obj\Debug\ServidorIPv6.pdb
